@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Smart Contact Manager",
+    "description": "A full stack web application based on SpringBoot. Helpful to manage your contacts and profiles in a very simple manner.",
+    "skills": ["SpringBoot", "Java", "HTML", "Thymleaf", "Bootstrap", "Mysql"],
+    "imageUrl": "Projects/scm.png",
+    "gitLink": "https://github.com/sanketkedare/Smart_Contact-Manager"
+  },
+  {
+    "title": "Portfolio",
+    "description": "Built using Next JS, React Components architecture. Which showcases my Skillset and more.",
+    "skills": ["Next JS", "Tailwind"],
+    "imageUrl": "Projects/portfolio.png",
+    "gitLink": ""
+  },
+  {
+    "title": "Email Application",
+    "description": "A Standalone Application for Sending Email. Simple UI for sending emails to a single receiver using Gmail API",
+    "skills": ["SpringBoot", "Java", "HTML", "CSS", "Thymleaf", "G-API"],
+    "imageUrl": "Projects/emaiweb.png",
+    "gitLink": "https://github.com/sanketkedare/EmailSendingWebApp"
+  },
+  {
+    "title": "Book Repository : REST API",
+    "description": "Application Programming Interface for book management. Your own library for managing Books",
+    "skills": ["SpringBoot", "Java", "JPA", "Mysql", "Postman"],
+    "imageUrl": "Projects/bookrepo.png",
+    "gitLink": "https://github.com/sanketkedare/Book-Repository--REST-API"
+  }
+]
