@@ -1,11 +1,14 @@
 # Welcome to My Portfolio - Powered by Next.js
 
-About
+
+
+>> About
 
 Welcome to my GitHub repository, which serves as a central hub for my portfolio webpage. This webpage is designed to provide insights into my background, skills, and projects. Whether you're an employer, collaborator, or just curious, I invite you to explore the content and reach out if you have any questions or opportunities to discuss.
 
-Portfolio Webpage
 
+
+>> Portfolio Webpage
 
 You can view my portfolio webpage live at https://sanket-kedare.vercel.app/ The webpage features the following sections:
 
@@ -19,11 +22,16 @@ You can view my portfolio webpage live at https://sanket-kedare.vercel.app/ The 
 
 	Downloadable Resume: Access my resume in PDF format for a comprehensive overview of my skills and experience.
 
- 	How to Use
+
+
+>> How to Use
 
 Feel free to explore my portfolio webpage using the navigation links above. If you have any questions, want to discuss potential collaborations, or have job opportunities to offer, please don't hesitate to reach out. You can contact me via email, LinkedIn, or GitHub, as mentioned in the "Contact Details" section.
 
- 	Get in Touch
+
+
+
+>> Get in Touch
 
 Email: sanketkedare200@gmail.com
 LinkedIn: https://www.linkedin.com/in/sanket-kedare-5820401bb/
