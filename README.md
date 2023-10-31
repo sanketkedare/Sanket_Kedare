@@ -1,40 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to My Portfolio - Powered by Next.js
 
-## Getting Started
+About
 
-First, run the development server:
+Welcome to my GitHub repository, which serves as a central hub for my portfolio webpage. This webpage is designed to provide insights into my background, skills, and projects. Whether you're an employer, collaborator, or just curious, I invite you to explore the content and reach out if you have any questions or opportunities to discuss.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Portfolio Webpage
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+You can view my portfolio webpage live at https://sanket-kedare.vercel.app/ The webpage features the following sections:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+	About Me: Learn more about my background, interests, and what drives me in the world of software development.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+	Education: Get details about my educational journey, including degrees and graduation years.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+	Contact Details: Reach out to me via email or connect with me on LinkedIn and GitHub.
 
-## Learn More
+	Projects: Explore some of my noteworthy projects, including those based on Java and Spring Boot. You'll find GitHub links for these projects if you want to dive deeper into the source code.
 
-To learn more about Next.js, take a look at the following resources:
+	Downloadable Resume: Access my resume in PDF format for a comprehensive overview of my skills and experience.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ 	How to Use
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Feel free to explore my portfolio webpage using the navigation links above. If you have any questions, want to discuss potential collaborations, or have job opportunities to offer, please don't hesitate to reach out. You can contact me via email, LinkedIn, or GitHub, as mentioned in the "Contact Details" section.
 
-## Deploy on Vercel
+ 	Get in Touch
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Email: sanketkedare200@gmail.com
+LinkedIn: https://www.linkedin.com/in/sanket-kedare-5820401bb/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I'm excited to connect with you and explore potential projects and opportunities. Thank you for visiting my GitHub repository and portfolio webpage!
