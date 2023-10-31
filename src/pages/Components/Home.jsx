@@ -32,8 +32,8 @@ const HomePage = () => {
 
           </div>
 
-          <div class="flex justify-center items-center m-auto p-4 ">
-            <img id="home" src="Extra/home.png" width="350vw"></img>
+          <div class="flex justify-center items-center m-auto p-6 rounded-full ">
+            <img id="home" src="Extra/home.png" width="240vw"></img>
           </div>
         </section>
       </div>
