@@ -2,7 +2,7 @@
 
 const Resume = () => 
 {
-    const RESUME_PDF = "http://localhost:3000/Resume.pdf";
+    const RESUME_PDF = "/Resume.pdf";
     const downloadResumeUrl =(url)=>
     {
         const aTag = document.createElement('a');

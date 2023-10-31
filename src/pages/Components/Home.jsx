@@ -1,6 +1,6 @@
 const HomePage = () => {
   return (
-    <section class="mt-6 pt-4 bg-gradient-to-r from-orange-500 via-red-200  to-green-500 rounded-3xl shadow-xl">
+    <section class="lg:mt-6 mt-12  pt-8 bg-gradient-to-r from-orange-500 via-red-200  to-green-500 rounded-3xl shadow-xl">
       <div
         id="home"
         class=" lg:h-[500px] w-[100%] mx-auto font-medium flex flex-col
@@ -32,8 +32,8 @@ const HomePage = () => {
 
           </div>
 
-          <div class="flex justify-center items-center m-auto p-6 rounded-full ">
-            <img id="home" src="Extra/home.png" width="240vw"></img>
+          <div class="flex justify-center items-center m-auto p-4 ">
+            <img id="home" src="Extra/home.png" width="350vw"></img>
           </div>
         </section>
       </div>
