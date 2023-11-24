@@ -3,7 +3,7 @@ import Education from "./Education";
 
 const About = () => {
   return (
-    <div class="mt-2 bg-gradient-to-r from-red-400 via-gray-400 to-yellow-200 border-blue-300 rounded-t-2xl shadow-lg">
+    <div class="mt-2  border-blue-300 rounded-t-2xl shadow-lg">
       <div
         id="about"
         class="flex text-center items-center w-[100%] h-auto "

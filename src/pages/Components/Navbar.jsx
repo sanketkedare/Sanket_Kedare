@@ -5,14 +5,14 @@ import { Button, Link } from "react-scroll/modules";
 const Navbar = () => {
   return (
     <>
-      <nav class="bg-dark border-gray-200 shadow-lg shadow-black-400 ">
+      <nav class="fixed top-0 z-10 bg-black border-gray-200 shadow-lg shadow-black-400 ">
         <div
           class=" shadow-slate-950 flex flex-wrap items-center justify-between fixed w-[100%] py-3 px-8 
-                      bg-gradient-to-r from-orange-500 via-red-200  to-green-500 text-white rounded-b-2xl"
+                     bg-gray-900  text-white rounded-b-2xl"
         >
           <div class="flex items-center">
             <img width="48" height="48" src="/portfolio.png" alt="port"  />
-            <span class="self-center text-2xl font-extrabold text-black whitespace-nowrap p-4">
+            <span class="self-center text-2xl font-extrabold  whitespace-nowrap p-4">
               Sanket Kedare
             </span>
           </div>
@@ -47,7 +47,7 @@ const Navbar = () => {
             <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 border rounded-lg  md:flex-row md:space-x-8 md:mt-0 md:border-0  dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
               <li>
                 <Button
-                  class="block py-2 pl-3 pr-4 text-black font-bold rounded 
+                  class="block py-2 pl-3 pr-4 text-white font-bold rounded 
                      hover:bg-gray-100 md:hover:bg-transparent 
                       md:border-0 
                      md:hover:text-blue-700 
@@ -71,7 +71,7 @@ const Navbar = () => {
 
               <li>
                 <Button
-                  class="block py-2 pl-3 pr-4 text-black font-bold rounded 
+                  class="block py-2 pl-3 pr-4 text-white font-bold rounded 
                      hover:bg-gray-100 md:hover:bg-transparent 
                       md:border-0 
                      md:hover:text-blue-700 
@@ -95,7 +95,7 @@ const Navbar = () => {
 
               <li>
                 <Button
-                  class="block py-2 pl-3 pr-4 text-black font-bold rounded 
+                  class="block py-2 pl-3 pr-4 text-white font-bold rounded 
                              hover:bg-gray-100 md:hover:bg-transparent md:border-0 
                              md:hover:text-blue-700 md:p-0 dark:text-white 
                              md:dark:hover:text-blue-500 dark:hover:bg-gray-700 
@@ -115,7 +115,7 @@ const Navbar = () => {
 
               <li>
                 <Button
-                  class="block py-2 pl-3 pr-4 text-black font-bold rounded 
+                  class="block py-2 pl-3 pr-4 text-white font-bold rounded 
                              hover:bg-gray-100 md:hover:bg-transparent md:border-0 
                              md:hover:text-blue-700 md:p-0 dark:text-white 
                              md:dark:hover:text-blue-500 dark:hover:bg-gray-700 
@@ -135,7 +135,7 @@ const Navbar = () => {
 
               <li>
                 <Button
-                  class="block py-2 pl-3 pr-4 text-black font-bold rounded 
+                  class="block py-2 pl-3 pr-4 text-white   font-bold rounded 
                              hover:bg-gray-100 md:hover:bg-transparent md:border-0 
                              md:hover:text-blue-700 md:p-0 dark:text-white 
                              md:dark:hover:text-blue-500 dark:hover:bg-gray-700 
