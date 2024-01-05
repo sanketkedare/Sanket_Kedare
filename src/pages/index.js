@@ -12,14 +12,24 @@ export default function Home() {
   return (
     <div>
       <Navbar />
-      <div >
+
+      <section>
         <HomePage />
+      </section>
+
+      <section>
         <About />
+      </section>
+      <section>
         <Skills />
+      </section>
+      <section>
         <Resume />
+      </section>
+      <section>
         <Work />
-        <Footer />
-      </div>
+      </section>
+      <Footer />
     </div>
   );
 }

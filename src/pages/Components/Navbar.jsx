@@ -5,15 +5,14 @@ import { Button, Link } from "react-scroll/modules";
 const Navbar = () => {
   return (
     <>
-      <nav class="fixed top-0 z-10 bg-black border-gray-200 shadow-lg shadow-black-400 ">
+      <nav class="fixed top-0 z-10 bg-black border-gray-200 shadow-lg shadow-black-400 h-[100px]">
         <div
-          class=" shadow-slate-950 flex flex-wrap items-center justify-between fixed w-[100%] py-3 px-8 
+          class=" shadow-slate-950 flex flex-wrap items-center justify-between fixed w-[100%] py-2 px-8 
                      bg-gray-900  text-white rounded-b-2xl"
         >
           <div class="flex items-center">
-            <img width="48" height="48" src="/portfolio.png" alt="port"  />
             <span class="self-center text-2xl font-extrabold  whitespace-nowrap p-4">
-              Sanket Kedare
+              PortFollio
             </span>
           </div>
           <button
@@ -152,13 +151,11 @@ const Navbar = () => {
                   </Link>
                 </Button>
               </li>
-
-              
             </ul>
           </div>
         </div>
       </nav>
-      <hr />
+ 
     </>
   );
 };
